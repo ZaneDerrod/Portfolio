@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(202, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hero{
+    background-image: url("images/sm.jpg");
+}
+
+img {
+    padding-top: 21px;
+    width: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+  }
+
+.page{
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    /* Adjust the width as desired */
+    width: 80%;  /* This sets the width of the container to 70% of the viewport width */
+    max-width: 600px;
+    border-radius: 10px;
+    padding-top: 0px;
+}
+.top-page {
+    background-color: #000000; /* Blue color for the top bar */
+    height: 50px; /* Height of the top bar */
+    width: 100%; /* Full width */
+}
+.home-title{
+    color: white;
+}
+.compsci{
+    width: 400px;
+    font-size: 14px;
+}
+.hobbies{
+    width: 500px;
+    font-size: 14px;
+}

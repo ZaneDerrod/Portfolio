@@ -1,0 +1,44 @@
+.page-expierence{
+        background-color: #ffffff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-left: 400px;
+        margin-top: 0px;
+        padding-top: 1px;
+        border-radius: 10px;
+
+    
+
+        
+        
+        /* Adjust the width as desired */
+    width: 50%;  /* This sets the width of the container to 70% of the viewport width */
+    max-width: 700px;
+}
+.lafit{
+    line-height: 20px;
+    font-size: 16px;
+}
+img{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+}
+h4{
+    font-size: 17px;
+}
+.top-page-expierence{
+    background-color: #003171; /* Blue color for the top bar */
+    height: 50px; /* Height of the top bar */
+    width: 100%; /* Full width */
+}
+.header{
+    color: white;
+    padding-left: 250px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.lafitskills{
+    width: 500px;
+}
